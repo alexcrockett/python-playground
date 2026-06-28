@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Introduction to Mathematical Philosophy",
+        "genres": [
+            "mathematics"
+        ],
+        "author": "Bertrand Russell"
+    },
+    {
+        "title": "Some new book",
+        "genres": [
+            "Toilet time reading"
+        ],
+        "author": "Poopoo Magoo"
+    }
+]
