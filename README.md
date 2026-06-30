@@ -37,6 +37,10 @@ To use this repository:
 
 Contributions to this repository are welcome. If you have Python scripts, mini-projects, or experimental code that you'd like to share, please feel free to submit a pull request.
 
+## Roadmap / Maintenance
+
+It's quite likely, after the repository hits a critical mass, that I'll stop maintaining it. I'll continue to add to it over time. However, I'd like to keep more specialized programming concepts in their own dedicated repos. For example, I will work on a seperate repo for vizualzation, another for games and another for math with Python as I have the time. 
+
 ## License
 
 This project is open source and available under the [Creative Commons, Universal license](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
