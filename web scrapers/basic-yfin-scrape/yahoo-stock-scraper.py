@@ -1,4 +1,5 @@
 # Yahoo Finance web-scraper.
+# Buggy and needs work
 
 """
 Scrape basic stock data (current price, 52-week high/low) from Yahoo Finance
